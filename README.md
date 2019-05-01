@@ -16,7 +16,7 @@ A selfbot to bump disboard
 
 6: Change the "myConfig.js" to "config.js" and fill in the needed fields.   
 
-to retrieve your account token, please refer to [this guide]()
+to retrieve your account token, please refer to [this guide](https://github.com/thesuicideheart/disboard-bumper/blob/master/Getting-Account-Token.md)
 
 
 ## Notes ##
