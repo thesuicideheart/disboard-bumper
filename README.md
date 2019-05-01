@@ -16,7 +16,21 @@ A selfbot to bump disboard
 
 6: Change the "myConfig.js" to "config.js" and fill in the needed fields.   
 
-to retrieve your account token, please refer to [this guide](/Getting-Account-Token.md)
+to retrieve your account token, please refer to [this guide](/Getting-Account-Token.md)   
+
+7: Once you've gotten your token, put the token into the 
+```javascript 
+module.exports.token = 'token here'
+```   
+
+Once you have set all the needed config elements, you're rady to go.   
+Just type "node index.js" in the command line like this   
+
+
+
+
+
+
 
 
 ## Notes ##
