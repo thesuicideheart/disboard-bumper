@@ -26,6 +26,7 @@ module.exports.token = 'token here'
 Once you have set all the needed config elements, you're rady to go.   
 Just type "node index.js" in the command line like this   
 
+![cmd line](/images/cmd.png)
 
 
 
