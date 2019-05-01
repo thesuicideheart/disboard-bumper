@@ -6,7 +6,7 @@ A selfbot to bump disboard
 1: Download [NodeJS](https://nodejs.org/en/)   
 
 2: Clone this repo or download as zip    
-![Download image](https://raw.githubusercontent.com/thesuicideheart/disboard-bumper/master/images/download.png?token=AD3UMJCK3O3DCKWJI54S3JC4ZFFTE)
+![yikes](/images/download.png)
 
 3: Open folder containing the source code.   
 
@@ -16,7 +16,7 @@ A selfbot to bump disboard
 
 6: Change the "myConfig.js" to "config.js" and fill in the needed fields.   
 
-to retrieve your account token, please refer to [this guide](https://github.com/thesuicideheart/disboard-bumper/blob/master/Getting-Account-Token.md)
+to retrieve your account token, please refer to [this guide](/Getting-Account-Token.md)
 
 
 ## Notes ##
