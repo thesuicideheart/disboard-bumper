@@ -16,6 +16,6 @@ If done correctly, it should look like this:
 
 6: To the left there should be a list of different requests, Select the one called "library".   
 
-7: Select the "Headers" tab to the right.    
+7: In the "Headers" section, scroll down until you see the "Request Headers" section.   
 
-8: 
+8: Scroll down until you find the header called "Authorization". That is your account token.
