@@ -1,2 +1,1 @@
 # getting account token.
-xd
